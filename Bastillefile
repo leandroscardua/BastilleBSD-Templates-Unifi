@@ -1,0 +1,3 @@
+PKG unifi6
+SYSRC unifi_enable="YES"
+SERVICE unifi start
